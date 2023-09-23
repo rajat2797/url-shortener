@@ -1,0 +1,11 @@
+{
+    "name": "Url Shortener",
+    "version": "1.0.0",
+    "description": "Shorten Url",
+    "manifest_version": 3,
+    "author": "Rajat ",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Url Shortener"
+    }
+}
